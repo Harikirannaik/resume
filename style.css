@@ -21,7 +21,7 @@
         height: 1px;
         width: 1080px;
         background-color: rgb(0, 0, 0);
-        margin: auto;;
+        margin: auto;
 }
 .summary{
         text-align: left;
@@ -63,12 +63,23 @@
         padding-left: 40px;
 }
 
-.Experience.Exp{
-        text-align: right;
-        margin-right: 50px;
+.exp{
+        text-align: left;
+        margin-left: 900px;
         font-size: 20px;
         font-weight: 400;
         font-family:'Times New Roman', Times, serif;
         text-align:justify;
-        padding-right: 40px;
+        padding-left: 40px;
+}
+
+.role{
+        text-align: left;
+        margin-left: 90px;
+        font-size: 15px;
+        font-weight: 300;
+        font-style:normal;
+        font-family:'Times New Roman', Times, serif;
+        text-align:justify;
+        padding-right: 90px;
 }
