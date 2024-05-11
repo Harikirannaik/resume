@@ -83,3 +83,23 @@
         text-align:justify;
         padding-right: 90px;
 }
+
+.exp2{
+        text-align: left;
+        margin-left: 900px;
+        font-size: 20px;
+        font-weight: 400;
+        font-family:'Times New Roman', Times, serif;
+        text-align:justify;
+        padding-left: 70px;
+}
+
+.Education{
+        text-align: left;
+        margin-left: 100px;
+        font-size: 15px;
+        font-weight: 600;
+        font-family:'Times New Roman', Times, serif;
+        text-align:justify;
+        padding-right: 90px;
+}
